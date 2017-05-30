@@ -1,8 +1,9 @@
 ---
+url: http://www.vaneey.com/Ceiling.html
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
-image: assets/images/pic05.jpg
+title: Ceiling lamp
+description: 
+image: assets/images/pic02.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

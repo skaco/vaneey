@@ -1,8 +1,9 @@
 ---
+url: http://www.vaneey.com/Floor.html
 layout: post
-title: Aliquam
-description: Ipsum dolor sit amet
-image: assets/images/pic01.jpg
+title: Floor lamp
+description: 
+image: assets/images/pic05.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

@@ -1,7 +1,8 @@
 ---
+url: http://www.vaneey.com/Wall.html
 layout: post
-title: Magna
-description: Lorem etiam nullam
+title: Wall lamp
+description: 
 image: assets/images/pic03.jpg
 ---
 
