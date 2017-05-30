@@ -1,1 +1,36 @@
-theme: jekyll-theme-midnight
+# site settings
+title: VANEEY
+subtitle: LIGHTING
+email: kenlisten@vaneey.com
+description: Focus on modern desgin.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://www.vaneey.com/" # the base hostname & protocol for your site
+author:
+street_address: 14 Qingfeng Road, Henglan
+city: Zhongshan
+state: Guangdong
+zip_code: 528400
+country: China
+phone: 86-0760-87683570
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url: https://500px.com
+facebook_url: https://fackbook.com
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/andrewbanchich
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
