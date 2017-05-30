@@ -1,9 +1,8 @@
 ---
-url: http://www.vaneey.com/Floor.html
-layout: post
-title: Floor lamp
+layout: page
+title: Mirror lamp
 description: 
-image: assets/images/pic05.jpg
+image: assets/images/pic04.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

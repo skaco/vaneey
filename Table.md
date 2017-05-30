@@ -1,9 +1,8 @@
 ---
-url: http://www.vaneey.com/Pendant.html
-layout: post
-title: Pendant
+layout: page
+title: Table lamp
 description: 
-image: assets/images/pic01.jpg
+image: assets/images/pic06.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

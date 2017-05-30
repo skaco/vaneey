@@ -1,6 +1,5 @@
 ---
-url: http://www.vaneey.com/Ceiling.html
-layout: post
+layout: page
 title: Ceiling lamp
 description: 
 image: assets/images/pic02.jpg

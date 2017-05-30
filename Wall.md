@@ -1,6 +1,5 @@
 ---
-url: http://www.vaneey.com/Wall.html
-layout: post
+layout: page
 title: Wall lamp
 description: 
 image: assets/images/pic03.jpg

@@ -1,9 +1,8 @@
 ---
-url: http://www.vaneey.com/Mirror.html
-layout: post
-title: Mirror lamp
+layout: page
+title: Pendant lamp
 description: 
-image: assets/images/pic04.jpg
+image: assets/images/pic01.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
