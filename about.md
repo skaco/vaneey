@@ -2,6 +2,7 @@
 layout: post
 title: About us
 description: 
+nav-menu: false
 ---
 
 <section>
