@@ -33,4 +33,3 @@ image: assets/images/ceiling.jpg
 		</ul>
 	</div>
 </section>
-    
