@@ -16,7 +16,6 @@ image: assets/images/pendant.jpg
 		<span class="image main"><img src="/assets/images/pendant-content4.jpg"></span>
 		<span class="image main"><img src="/assets/images/pendant-content5.jpg"></span>
 		<span class="image main"><img src="/assets/images/pendant-content6.jpg"></span>
-		
 	</div>
 </section>
 
